@@ -8,13 +8,13 @@ A step by step guide on How to Run Aztec Network Sequencer Node on Testnet & Ear
 ## Hardware Requirements
 * **Sequencer Node**: 8 cores CPU, 16GB RAM, 100GB+ SSD
 * **Prover Node**: 16 cores and 128GB RAM
-* We do NOT run `Prover` sicne it's for data-center computing systems, not for us.
+* We do NOT run `Prover` node, sicne it's for data-center computing systems, not for us.
 
 ---
 
 **Windows Users**: Must install Ubuntu on Windows (WSL)
 
-**VPS Users**: can get started via a `VPS` with 4 cores CPU, 8GB RAM!
+**VPS Users**: You can get started via a `VPS` with 4 cores CPU, 8GB RAM!
 
 ---
 
