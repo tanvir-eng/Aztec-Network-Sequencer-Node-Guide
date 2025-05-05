@@ -124,7 +124,7 @@ aztec start --node --archiver --sequencer \
   --l1-consensus-host-urls BEACON_URL \
   --sequencer.validatorPrivateKey YourPrivateKey \
   --sequencer.coinbase YourAddress \
-  --p2p.p2pIp IP
+  --p2p.p2pIp IP \
   --p2p.maxTxPoolSize 1000000000
 ```
 Replace the following variables before you Run Node:
